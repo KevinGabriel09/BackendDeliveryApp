@@ -1,4 +1,6 @@
 node_modules/
+utils/cloud_storage.js
+Controllers/StripeController.js
 .expo/
 dist/
 npm-debug.*
